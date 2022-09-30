@@ -37,9 +37,7 @@
 
 ### 2-2 사전학습 가중치/예측 진행방법
 
-- weights.7z 압축해제
-- weights.taraa~weights.tarbf 분할압축해제
-- 분할압축해제 한 후 나오는 weights 폴더의 경로(위치)는 [Code] Modeling_load.py, [Code] Modeling_load_2.py 스크립트들의 경로(위치)와 같아야 함.
+- 학습한 모델의 폴더의 경로(위치)는 [Code] Modeling_load.py, [Code] Modeling_load_2.py 스크립트들의 경로(위치)와 같아야 함.
 - [Code] modeling_load.py 실행
 
 # 3. 기타
