@@ -82,20 +82,7 @@ pip3 install torch==1.12.0+cu113 torchvision==0.13.0+cu113 torchtext==0.13.0 --e
 pip3 install autogluon==0.5.3b20220811
 ```
 
-### 3-4 ubuntu 환경 7z & tar 압축해제코드
-
-```python
-# 7z 압축해제 library 설치
-sudo apt install p7zip-full
-
-# 7z 압축해제
-7za x weights.7z
-
-# tar 압축해제
-cat weights.tar* | tar xvf -
-```
-
-### 3-5 Test list
+### 3-4 Test list
 
 - NVIDIA GeForce RTX 3070 - LB : 1.9090032119 (1등)
 - NVIDIA GeForce GTX 1060 - LB : 1.9109867458 (1등 유지)
