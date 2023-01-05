@@ -2,6 +2,7 @@
  - PDF를 먼저 보시는걸 권장드립니다.
  - 대회 : https://dacon.io/competitions/official/235927/overview/description
  ![image](https://user-images.githubusercontent.com/96504946/196436908-3fbe8601-eb4b-449e-a685-8034b948502c.png)
+ - sharp value는 catboost 단일 모델로 계산
 
 ## 대회결과
  - 압도적인 차이로 Private Score 1위
